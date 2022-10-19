@@ -23,6 +23,5 @@ int main()
 {
     demoson d1;
     cout << "THIS ACCESED BY DEMOSON OBJ " << d1.denomane;
-
     return 0;
 }
