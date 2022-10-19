@@ -30,6 +30,5 @@ class c:public a,public b
 int main()
 {
     c obj;
-    
     return 0;
 }
